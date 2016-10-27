@@ -1,2 +1,2 @@
 # my-widget
-This is pure javascritp widget
+This is pure javascript widget
